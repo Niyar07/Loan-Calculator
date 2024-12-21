@@ -1,0 +1,32 @@
+body{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+}
+.container{
+    background-color: rgb(255, 124, 1);
+    width: 25vw;
+    color: aliceblue;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.input{
+    height: 25px;
+    width: 100%;
+    margin-top: 2px;
+    border-radius: 7px;
+}
+
+.payment{
+    font-weight: 600;
+    font-size: 20px
+}
