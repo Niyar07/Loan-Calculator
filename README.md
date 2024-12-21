@@ -25,7 +25,7 @@ The monthly payment is automatically calculated and displayed below.
 **Formula Used :**
 The formula for calculating the monthly payment is: **Monthly Payment** =(Loan Amount × ( 1 + Interest Rate ))/ Months to Pay
 
-**​Technologies Used : **
+**​Technologies Used :**
 HTML: Structure of the application.
 CSS: Styling for a visually appealing layout.
 JavaScript: Core logic for calculations.
